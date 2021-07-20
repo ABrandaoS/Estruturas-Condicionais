@@ -3,7 +3,7 @@ var
    M, A, IMC: Real
 
 inicio
-      Escreva("Massa (Kg): ")
+      Escreva("Massa Magra (Kg): ")
       Leia(M)
       Escreva("Altura (m): ")
       Leia(A)
@@ -44,6 +44,6 @@ inicio
       Escreval("Entre 25 e 29,99	Acima do peso")
       Escreval("Entre 30 e 34,99	Obesidade I")
       Escreval("Entre 35 e 39,99	Obesidade II (severa)")
-      Escreval("Acima de 40	Obesidade III (mórbida)")
+      Escreval("Acima de 40	Obesidade III (mï¿½rbida)")
       Escreval("---------------------------------------")
 fimalgoritmo
