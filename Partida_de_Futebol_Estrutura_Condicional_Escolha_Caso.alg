@@ -4,13 +4,13 @@ var
 
 inicio
       Escreval("BANGU X MADUREIRA")
-      Escreva("Quantos gols do BANGU? ")
+      Escreva("Quantos gols do S√ÉO PAULO? ")
       Leia(Bangu)
       Escreva("Quantos gols do MADUREIRA? ")
       Leia(Madu)
 
       Dif <- Abs(Bangu - Madu)
-      Escreval("DIFEREN«A: ", Dif)
+      Escreval("DIFERENÔøΩA: ", Dif)
       
       Escolha Dif
              Caso 3
