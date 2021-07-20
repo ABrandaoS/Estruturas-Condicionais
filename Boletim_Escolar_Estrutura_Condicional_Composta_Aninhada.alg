@@ -26,7 +26,7 @@ senao
               Se (Med >= 5) e (Med < 6) entao
                Escreva ("APROVEITAMENTO: E")
               senao
-                 Escreva ("APROVEITAMENTO: F")
+                 Escreva ("APROVEITAMENTO: F (PESSIMO ALUNO)")
             FimSe
          FimSE
       FimSe
