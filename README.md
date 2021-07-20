@@ -1,4 +1,4 @@
 # Estruturas-Condicionais
 
-### Curso feito com o professor Gustavo Guanabaria. :chicken:
+### Curso feito com o professor Gustavo Guanabara. :chicken:
 
