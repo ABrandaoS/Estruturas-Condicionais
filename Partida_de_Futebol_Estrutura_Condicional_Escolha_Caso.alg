@@ -6,7 +6,7 @@ inicio
       Escreval("BANGU X MADUREIRA")
       Escreva("Quantos gols do SÃO PAULO? ")
       Leia(Bangu)
-      Escreva("Quantos gols do MADUREIRA? ")
+      Escreva("Quantos gols do CORINTHIANS? ")
       Leia(Madu)
 
       Dif <- Abs(Bangu - Madu)
