@@ -9,7 +9,7 @@ Escreva("Segunda Nota: ")
 Leia(N2)
 
 Med <- (N1 + N2) / 2
-Escreval("MEDIA: ", Med)
+Escreval("MEDIA ABC: ", Med)
 
 Se Med >= 9 entao
    Escreva ("APROVEITAMENTO: A")
